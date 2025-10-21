@@ -4,7 +4,7 @@ This project analyzes the World Happiness Report data from 2007 to 2017. The pri
 
 This project was developed as part of the curriculum for the Bachelor's of Science in Mathematics at Boğaziçi University.
 
-## 🚀 Project Pipeline & Key Activities
+##  Project Pipeline & Key Activities
 
 The project was structured as an end-to-end data science workflow:
 
@@ -14,7 +14,7 @@ The project was structured as an end-to-end data science workflow:
 * **Visualization:** Analyzed global trends and the correlations between happiness and key factors like GDP, life expectancy, freedom, and corruption indices using time-series visualization.
 * **Machine Learning:** Applied machine learning models to predict happiness scores based on the analyzed factors.
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 This project leveraged technologies and concepts from my academic coursework "Data Science in R"
 * **Primary Language:** R
