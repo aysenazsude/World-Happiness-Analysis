@@ -8,22 +8,16 @@ This project was developed as part of the curriculum for the Bachelor's of Scien
 
 The project was structured as an end-to-end data science workflow:
 
-* **Data Preprocessing:** Cleaned and prepared the raw dataset for analysis[cite: 20].
-* [cite_start]**Feature Engineering:** Engineered relevant features from the existing data to improve analysis and model accuracy[cite: 20].
-* [cite_start]**Exploratory Data Analysis (EDA):** Performed a deep exploratory analysis to uncover initial patterns[cite: 20].
-* [cite_start]**Visualization:** Analyzed global trends and the correlations between happiness and key factors like GDP, life expectancy, freedom, and corruption indices using time-series visualization[cite: 21].
-* [cite_start]**Machine Learning:** Applied machine learning models to predict happiness scores based on the analyzed factors[cite: 22].
+* **Data Preprocessing:** Cleaned and prepared the raw dataset for analysis.
+* **Feature Engineering:** Engineered relevant features from the existing data to improve analysis and model accuracy.
+* **Exploratory Data Analysis (EDA):** Performed a deep exploratory analysis to uncover initial patterns.
+* **Visualization:** Analyzed global trends and the correlations between happiness and key factors like GDP, life expectancy, freedom, and corruption indices using time-series visualization.
+* **Machine Learning:** Applied machine learning models to predict happiness scores based on the analyzed factors.
 
 ## 🔧 Technologies Used
 
-[cite_start]This project leveraged technologies and concepts from my academic coursework, such as "Python for Data Science & AI" [cite: 11] [cite_start]and "Machine Learning Methods"[cite: 11].
+This project leveraged technologies and concepts from my academic coursework, such as "Python for Data Science & AI" and "Machine Learning Methods".
 
-* [cite_start]**Primary Language:** Python [cite: 3]
+* **Primary Language:** Python
 * **Data Analysis & ML:** *(Please add the specific libraries you used, e.g., Pandas, NumPy, Scikit-learn)*
-* [cite_start]**Visualization:** *(Please add the libraries/tools you used, e.g., Matplotlib, Seaborn, or Power BI [cite: 3])*
-
-## 📊 Key Analyses & Findings
-
-* [cite_start]In-depth analysis of the correlation between happiness scores and metrics such as GDP, life expectancy, and corruption indices[cite: 21].
-* [cite_start]Time-series visualization of how global happiness trends have evolved[cite: 21].
-* [cite_start]Development of a predictive model for happiness scores[cite: 22].
+* **Visualization:** *(Please add the libraries/tools you used, e.
