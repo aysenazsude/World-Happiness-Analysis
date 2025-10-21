@@ -2,13 +2,13 @@
 
 This project analyzes the World Happiness Report data from 2007 to 2017. The primary goals were to perform exploratory data analysis, visualize global trends, and apply machine learning models to predict happiness scores.
 
-[cite_start]This project was developed as part of the curriculum for the Bachelor's of Science in Mathematics at Boğaziçi University[cite: 6, 7].
+This project was developed as part of the curriculum for the Bachelor's of Science in Mathematics at Boğaziçi University.
 
 ## 🚀 Project Pipeline & Key Activities
 
 The project was structured as an end-to-end data science workflow:
 
-* [cite_start]**Data Preprocessing:** Cleaned and prepared the raw dataset for analysis[cite: 20].
+* **Data Preprocessing:** Cleaned and prepared the raw dataset for analysis[cite: 20].
 * [cite_start]**Feature Engineering:** Engineered relevant features from the existing data to improve analysis and model accuracy[cite: 20].
 * [cite_start]**Exploratory Data Analysis (EDA):** Performed a deep exploratory analysis to uncover initial patterns[cite: 20].
 * [cite_start]**Visualization:** Analyzed global trends and the correlations between happiness and key factors like GDP, life expectancy, freedom, and corruption indices using time-series visualization[cite: 21].
