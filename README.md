@@ -16,8 +16,5 @@ The project was structured as an end-to-end data science workflow:
 
 ## 🔧 Technologies Used
 
-This project leveraged technologies and concepts from my academic coursework, such as "Python for Data Science & AI" and "Machine Learning Methods".
-
-* **Primary Language:** Python
-* **Data Analysis & ML:** *(Please add the specific libraries you used, e.g., Pandas, NumPy, Scikit-learn)*
-* **Visualization:** *(Please add the libraries/tools you used, e.
+This project leveraged technologies and concepts from my academic coursework "Data Science in R"
+* **Primary Language:** R
